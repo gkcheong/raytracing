@@ -1,0 +1,9 @@
+background 0 .25 0
+max_vertices 3
+vertex 0 0 2
+vertex 0 1 2
+vertex 1 0 2
+
+point_light 100 100 100 1 1 -2
+material 0 0 0 1 0 1 .2 .2 .2 100 0 0 0 1
+triangle 0 1 2
