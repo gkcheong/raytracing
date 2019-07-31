@@ -1,6 +1,10 @@
 # raytracing
 Simple raytracing program with BVH and threading 
 
+The program takes in one argument specifying the location of the model file.
+For example:
+` ./Raytracing input1.scn`
+
 Here are some sample images produced by this program.
 
 <img src=https://github.com/gkcheong/raytracing/blob/master/Images/arm.bmp width="400" height="400" /> |
